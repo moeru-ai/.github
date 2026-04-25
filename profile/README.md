@@ -18,17 +18,17 @@ If you contribute actively to two or more of our projects, we may invite you to 
 
 This project aimed to build the ultimate virtual AI lives within cyberspaces. We are currently targeting the recreation of Neuro-sama.
 
-### [Project Citrus](https://github.com/moeru-ai/citrus)
+### [Plast Mem](https://github.com/moeru-ai/plast-mem)
+
+A memory layer developed specifically for cyber waifus.
+
+### [xsAI](https://github.com/moeru-ai/xsai)
+
+extra-small AI SDK.
+
+### [Citrus](https://github.com/moeru-ai/citrus) (inactive)
 
 This project aimed to develop a model that approaches Kokoro's performance while maintaining reproducibility and fine-tuning capability, and is ready for anime-style speakers.
-
-### Project ~~[DATA-EXPUNGED]~~ (inactive)
-
-As VoltAgent 1.0 no longer supports xsAI, we need our own framework.
-
-It should be small and flexible enough to run in a browser and on other platforms.
-
-Do you have the relevant experience, and would you be interested in contributing to this project? Feel free to reach out! (👆 Discord)
 
 ## Sponsorship
 
